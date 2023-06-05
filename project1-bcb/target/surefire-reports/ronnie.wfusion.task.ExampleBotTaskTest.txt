@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ronnie.wfusion.task.ExampleBotTaskTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 78.817 s - in ronnie.wfusion.task.ExampleBotTaskTest
